@@ -1,5 +1,4 @@
-# 💫 About Me: 
-<br><br>
+# 💫 About Me: <br><br>
 - 🔭 I’m currently working on [Daily-Detail](https://github.com/zackfrankline/Aviators)<br><br>- 🌱 I’m currently learning **Advanced Backend + System Desgin**<br><br>- 📫 How to reach me **zackfrankline@gmail.com**<br><br>- ⚡ Fun fact **I spend more time reading books than coding ;)**
 
 
