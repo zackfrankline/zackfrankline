@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Daily-Detail](https://github.com/zackfrankline/Daily-Detail)<br><br>- 🌱 I’m currently learning **React-Native Expo**<br><br>- 📫 How to reach me **zackfrankline@gmail.com**<br><br>- ⚡ Fun fact **I spend more time reading books than coding ;)**
+- 🔭 I’m currently working on [Daily-Detail](https://github.com/zackfrankline/Aviators)<br><br>- 🌱 I’m currently learning **Advanced Backend + System Desgin**<br><br>- 📫 How to reach me **zackfrankline@gmail.com**<br><br>- ⚡ Fun fact **I spend more time reading books than coding ;)**
 
 
 ## 🌐 Socials:
